@@ -1,9 +1,9 @@
 # Wingardium
 
--This is a simple React Native App which user can view the GOT character details by login to the system. 
+- This is a simple React Native App which user can view the GOT character details by login to the system. 
 
 Technology Stacks and used for the System 
- -  Java Script(Language)
+ -  TypeScript(Language)
  -  NoSQL(FireBase)
    
 

@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/45414b94-cf62-46bc-a053-77ac08607aa8
 ### 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/ManulaGunatilleke/resturent-all.git
+git clone https://github.com/ManulaGunatilleke/Wingardium.git
 ```
 ### 2. navigation:
 
